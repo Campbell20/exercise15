@@ -6,7 +6,7 @@ public class Main {
         EvenIntegersFrom2 objEIFrom2 = new EvenIntegersFrom2();
 
         while (true){
-            objEIFrom2.GetUserInt();
+            objEIFrom2.getClass();
         }
 
     }
