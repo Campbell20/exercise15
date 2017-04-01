@@ -1,4 +1,4 @@
-package com.company;
+package com.SumOfEvenIntFromUsersInt;
 
 import java.util.Scanner;
 
